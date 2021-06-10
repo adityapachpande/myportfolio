@@ -543,6 +543,14 @@ footer.copyright{
     }
 }
 
+@media (max-width: 768px){
+    .banner{
+    position:relative;
+    background-size:contain;
+    background-position: right;
+    display:flex;
+}
+}
 
 
 @media (max-width: 768px){
