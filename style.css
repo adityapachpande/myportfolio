@@ -543,15 +543,7 @@ footer.copyright{
     }
 }
 
-@media (max-width: 768px){
-    .banner{
-    position:relative;
-    min-height: 60vh;
-    background-size:contain;
-    background-position: right;
-    display:flex;
-}
-}
+
 
 @media (max-width: 768px){
     .education .content .educationBx{
