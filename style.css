@@ -545,14 +545,11 @@ footer.copyright{
 
 @media (max-width: 768px){
     .banner{
+    background: #001b33;
     background-repeat: no-repeat;
-    background-size: 80% 80%;
-    background-position: center;
     display:flex;
-    
 }
 }
-
 @media (max-width: 768px){
     .education .content .educationBx{
         max-width: calc(100% - 20px);
