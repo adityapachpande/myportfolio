@@ -545,7 +545,7 @@ footer.copyright{
 
 @media (max-width: 768px){
     .banner{
-    background: #001b33;
+   background-image: url("images/mw.jpg");
     background-repeat: no-repeat;
     display:flex;
 }
