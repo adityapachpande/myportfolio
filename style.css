@@ -546,9 +546,9 @@ footer.copyright{
 @media (max-width: 768px){
     .banner{
     background-repeat: no-repeat;
-    background-size: 80% 50%;
+    background-size: contain;
     background-position: right;
-    display:flex;
+    
 }
 }
 
